@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there 👋
+
+Hello, welcome to my GitHub home. 😄
 
 <!--
 **ferr0/ferr0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+|||
+|:---|:---|
+|||
+|||
