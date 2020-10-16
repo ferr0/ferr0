@@ -2,6 +2,18 @@
 
 Hello, welcome to my GitHub home. 😄
 
+
+## Stats
+<img src="https://github-readme-stats.vercel.app/api?username=ferr0&show_icons=true&count_private=true">
+
+## Contacts
+<a href="https://t.me/philyuchkoff"><img align="left" alt="Alexander S | Telegram" width="24px" src="https://github.com/ferr0/ferr0/blob/main/assets/tg.png" /></a>
+
+![Profile views](https://gpvc.arturio.dev/ferr0)
+
+
+
+
 <!--
 **ferr0/ferr0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
