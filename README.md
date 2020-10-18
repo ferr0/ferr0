@@ -1,10 +1,11 @@
 **Hi, I'm Alex** -- the SRE at [SAFEDATA](https://rt-dc.ru/)
 
-![Profile views](https://gpvc.arturio.dev/ferr0?v3)
+
 
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=ferr0&show_icons=true&count_private=true">
 
+![Profile views](https://gpvc.arturio.dev/ferr0?v3)
 ## Contacts
 <a href="https://t.me/znferr0"><img align="left" alt="Alexander S | Telegram" width="30px" src="https://github.com/ferr0/ferr0/blob/master/assets/tg.png?raw=true" /></a>
 
