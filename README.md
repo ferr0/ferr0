@@ -3,7 +3,7 @@
 
 
 ## Stats
-<img src="https://github-readme-stats.vercel.app/api?username=ferr0&show_icons=true&count_private=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=ferr0&show_icons=true&count_private=true&theme=gruvbox">
 
 ![Profile views](https://gpvc.arturio.dev/ferr0?v3)
 ## Contacts
