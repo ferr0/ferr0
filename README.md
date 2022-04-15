@@ -1,4 +1,4 @@
-**Hi, I'm Alex** -- the SRE at [SAFEDATA](https://rt-dc.ru/)
+**Hi, I'm Alex** --
 
 
 
